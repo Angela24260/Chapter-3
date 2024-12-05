@@ -1,4 +1,4 @@
-# Chapter-3
+# Chapter-3: Learning Dart Basics
 ### What I Learned:
 This chapter was a deep dive into Dart, the programming language that powers Flutter. I started with an introduction to Dart's syntax, focusing on its clean and concise structure, which is ideal for building modern applications. I learned how to define variables, use different data types like int, double, String, and bool, and explored Dart’s type inference system with var and dynamic.
 
